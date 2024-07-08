@@ -1,0 +1,1006 @@
+SampleNumber,ProductionArea,BedID,LocalAuthority,GridReference,SamplingPoint,DateSampleCollected,PSP-Alexandrium_spp.CellsL-1,DSP-DinophysiaceaeCellsL-1,DSP-ProrocentrumLimaCellsL-1,ASP-Pseudo-nitzschia_spp.CellsL-1,YessotoxinLingulodiniumPolyedrumCellsL-1,YessotoxinProtoceratiumReticulatumCellsL-1,VenerupinProrocentrumCordatumCellsL-1
+001/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-01-03,ND,ND,ND,800,ND,ND,ND
+002/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-01-04,ND,ND,ND,ND,ND,ND,ND
+003/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-01-05,ND,ND,ND,ND,ND,ND,ND
+004/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-01-05,ND,ND,ND,ND,ND,ND,ND
+005/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-01-05,ND,ND,ND,ND,ND,ND,ND
+006/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-01-09,ND,ND,ND,ND,ND,ND,ND
+007/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-01-09,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+008/23,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2023-01-09,ND,ND,ND,ND,ND,ND,ND
+009/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-01-09,ND,ND,ND,ND,ND,ND,ND
+010/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-01-09,ND,ND,ND,ND,ND,ND,ND
+011/23,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2023-01-10,ND,ND,ND,ND,ND,ND,ND
+012/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-01-10,ND,ND,ND,ND,ND,ND,ND
+013/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-01-11,ND,ND,ND,ND,ND,ND,ND
+014/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-01-11,ND,ND,ND,ND,ND,ND,ND
+015/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-01-11,ND,ND,ND,ND,ND,ND,ND
+016/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-01-12,ND,ND,ND,ND,ND,ND,ND
+017/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-01-16,ND,ND,ND,ND,ND,ND,ND
+018/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-01-16,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+019/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-01-16,ND,ND,ND,ND,ND,ND,ND
+020/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-01-16,ND,ND,ND,ND,ND,ND,ND
+021/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-01-16,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+022/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-01-16,ND,ND,ND,ND,ND,ND,ND
+023/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-01-16,ND,ND,ND,ND,ND,ND,ND
+024/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-01-17,ND,ND,ND,ND,ND,ND,ND
+026/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-01-17,ND,ND,ND,ND,ND,ND,ND
+027/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-01-17,ND,ND,ND,160,ND,ND,ND
+028/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+029/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+030/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+031/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+032/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+033/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+034/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-01-18,ND,ND,ND,ND,ND,ND,ND
+035/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-01-17,ND,ND,ND,ND,ND,ND,ND
+036/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-01-19,ND,ND,ND,ND,ND,ND,ND
+037/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2023-01-19,ND,ND,ND,ND,ND,ND,ND
+038/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-01-19,ND,ND,ND,ND,ND,ND,ND
+039/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-01-23,ND,ND,ND,ND,ND,ND,ND
+040/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-01-22,ND,ND,ND,ND,ND,ND,ND
+041/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-01-22,ND,ND,ND,ND,ND,ND,ND
+042/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-01-23,ND,ND,ND,ND,ND,ND,ND
+043/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-01-23,ND,ND,ND,ND,ND,ND,ND
+044/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-01-23,ND,ND,ND,ND,ND,ND,ND
+045/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+046/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+047/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+048/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+049/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+050/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-01-23,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+052/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-01-24,ND,ND,ND,ND,ND,ND,ND
+053/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-01-25,ND,ND,ND,400,ND,ND,ND
+054/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-01-26,ND,ND,ND,ND,ND,ND,ND
+055/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-01-26,ND,ND,ND,ND,ND,ND,ND
+056/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-01-27,ND,ND,ND,ND,ND,ND,ND
+058/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-02-01,ND,ND,ND,ND,ND,ND,ND
+059/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-02-01,ND,ND,ND,ND,ND,ND,ND
+060/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-02-01,ND,ND,ND,ND,ND,ND,ND
+061/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-02-02,ND,ND,ND,ND,ND,ND,ND
+062/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+063/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+064/23,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+065/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+066/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+067/23,Anglesey East,B104A,Ynys Mon CC,SH67528109,Anglesey Mussels,2023-02-05,ND,ND,ND,ND,ND,ND,ND
+068/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+069/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+070/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+071/23,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+072/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+073/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+074/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+075/23,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+076/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+077/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+078/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+079/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+080/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-02-08,ND,ND,ND,ND,ND,ND,ND
+081/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-02-07,ND,ND,ND,ND,ND,ND,ND
+082/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-02-08,ND,ND,ND,ND,ND,ND,ND
+083/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-02-06,ND,ND,ND,240,ND,ND,ND
+084/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+085/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-02-06,ND,ND,ND,ND,ND,ND,ND
+086/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2023-02-08,ND,ND,ND,ND,ND,ND,ND
+087/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-02-09,ND,ND,ND,ND,ND,ND,ND
+088/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-02-09,ND,ND,ND,ND,ND,ND,ND
+089/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+090/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+091/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+092/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+093/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+094/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+095/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+096/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+097/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-02-13,ND,ND,ND,ND,ND,ND,ND
+098/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-02-14,ND,ND,ND,ND,ND,ND,ND
+099/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-02-14,ND,ND,ND,ND,ND,ND,ND
+100/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-02-14,ND,ND,ND,ND,ND,ND,ND
+102/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-02-20,ND,ND,ND,ND,ND,ND,ND
+103/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-02-20,ND,ND,ND,ND,ND,ND,ND
+104/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-02-20,ND,ND,ND,ND,ND,ND,ND
+105/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-02-20,ND,ND,ND,ND,ND,ND,ND
+106/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-02-21,ND,ND,ND,ND,ND,ND,ND
+108/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-02-21,ND,ND,ND,360,ND,ND,ND
+109/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-02-22,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+110/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-02-22,ND,ND,ND,ND,ND,ND,ND
+111/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-02-22,ND,ND,ND,ND,ND,ND,ND
+113/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-02-22,ND,ND,ND,ND,ND,ND,ND
+114/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-03-01,ND,ND,ND,ND,ND,ND,ND
+115/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-03-01,ND,ND,ND,ND,ND,ND,ND
+116/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-03-02,ND,ND,ND,ND,ND,ND,ND
+117/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-03-06,ND,ND,ND,ND,ND,ND,ND
+118/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-03-06,ND,ND,ND,ND,ND,ND,ND
+119/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-03-06,ND,ND,ND,ND,ND,ND,ND
+120/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-03-06,ND,ND,ND,ND,ND,ND,ND
+121/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-03-06,ND,ND,ND,80,ND,ND,ND
+122/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-03-06,ND,ND,ND,760,ND,ND,ND
+123/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-03-06,ND,ND,ND,1960,ND,ND,ND
+124/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-03-07,ND,ND,ND,ND,ND,ND,ND
+125/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-03-07,ND,ND,ND,ND,ND,ND,ND
+126/23,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2023-03-07,ND,ND,ND,400,ND,ND,ND
+127/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2023-03-06,ND,ND,ND,ND,ND,ND,ND
+128/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-03-07,ND,ND,ND,1600,ND,ND,ND
+129/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-03-07,ND,ND,ND,ND,ND,ND,ND
+130/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-03-07,ND,ND,ND,ND,ND,ND,ND
+131/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-03-07,ND,ND,ND,240,ND,ND,ND
+132/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-03-06,ND,ND,ND,240,ND,ND,ND
+133/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-03-08,ND,ND,ND,ND,ND,ND,ND
+134/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-03-08,ND,ND,ND,4000,ND,ND,ND
+135/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-03-08,ND,ND,ND,ND,ND,ND,ND
+136/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-03-08,ND,ND,ND,1400,ND,ND,ND
+137/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-03-09,100,ND,ND,ND,ND,ND,ND
+138/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-03-09,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+139/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-03-09,ND,ND,ND,ND,ND,ND,ND
+140/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-03-13,ND,ND,ND,300,ND,ND,ND
+141/23,Burry Inlet,B038I,City and Council of Swansea,SS50509590,South East 4,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+142/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+143/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-03-14,40,ND,ND,ND,ND,ND,ND
+144/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+145/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-03-14,ND,ND,ND,320,ND,ND,ND
+146/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-03-14,ND,ND,ND,300,ND,ND,ND
+147/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+148/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+149/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+150/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+151/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-03-14,ND,ND,ND,ND,ND,ND,ND
+152/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-03-15,ND,ND,ND,ND,ND,ND,ND
+153/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-03-16,ND,ND,ND,ND,ND,ND,ND
+154/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-03-16,ND,ND,ND,ND,ND,ND,ND
+155/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-03-20,ND,ND,ND,ND,ND,ND,ND
+157/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-03-20,ND,ND,ND,ND,ND,ND,ND
+158/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-03-20,ND,ND,ND,ND,ND,ND,ND
+159/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-03-20,ND,ND,ND,600,ND,ND,ND
+161/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-03-20,ND,ND,ND,ND,ND,ND,ND
+162/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-03-20,ND,ND,ND,ND,ND,ND,ND
+163/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-03-21,ND,ND,ND,200,ND,ND,ND
+164/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-03-21,ND,ND,ND,ND,ND,ND,ND
+166/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-03-22,ND,ND,ND,80,ND,ND,ND
+167/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-03-22,ND,ND,ND,ND,ND,ND,ND
+168/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-03-22,ND,ND,ND,ND,ND,ND,ND
+169/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-03-23,ND,ND,ND,ND,ND,ND,ND
+170/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-03-27,ND,ND,ND,ND,ND,ND,ND
+171/23,Anglesey East,B104A,Ynys Mon CC,SH67528109,Anglesey Mussels,2023-03-27,ND,ND,ND,300,ND,ND,ND
+195/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+172/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-04-03,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+173/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-04-03,ND,ND,120,520,ND,ND,ND
+174/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+196/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-04-05,ND,ND,ND,300,ND,ND,ND
+184/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-04-04,ND,ND,ND,160,ND,ND,ND
+176/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+177/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+178/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+179/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+185/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-04-04,ND,ND,ND,ND,ND,ND,ND
+197/23,Lantivet Bay,B70AH,Cornwall PHA,SX16305094,Sandheap Point,2023-04-05,ND,ND,ND,ND,ND,ND,ND
+198/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-04-05,ND,ND,ND,ND,ND,ND,ND
+199/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-04-05,ND,ND,ND,ND,ND,ND,ND
+180/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-04-03,ND,ND,ND,280,ND,ND,ND
+200/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2023-04-04,ND,ND,ND,1400,ND,ND,ND
+186/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-04-04,ND,ND,ND,ND,ND,ND,ND
+181/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+201/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-04-05,ND,ND,ND,1800,ND,ND,ND
+202/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-04-05,ND,ND,ND,800,ND,ND,ND
+203/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-04-05,ND,ND,ND,ND,ND,ND,ND
+204/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-04-05,ND,ND,ND,ND,ND,ND,ND
+182/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+183/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+187/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-04-04,ND,ND,ND,ND,ND,ND,ND
+188/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-04-03,ND,ND,ND,ND,ND,ND,ND
+189/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-04-04,ND,ND,ND,18200,ND,ND,ND
+190/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-04-04,ND,ND,ND,2700,ND,ND,ND
+191/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-04-04,ND,ND,ND,2400,ND,ND,ND
+192/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-04-04,ND,ND,ND,2600,ND,ND,ND
+193/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-04-03,ND,ND,ND,2100,ND,ND,ND
+194/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-04-04,ND,ND,ND,160,ND,ND,ND
+205/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-04-04,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+206/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-04-10,ND,ND,ND,ND,ND,ND,ND
+207/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-04-10,ND,ND,ND,ND,ND,ND,ND
+208/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-04-11,ND,ND,ND,ND,ND,ND,ND
+209/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-04-11,ND,ND,ND,ND,ND,ND,ND
+210/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-04-10,40,ND,ND,680,ND,ND,ND
+211/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-04-11,ND,ND,ND,15600,ND,ND,ND
+213/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-04-11,ND,ND,ND,ND,ND,ND,ND
+214/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-04-12,ND,ND,ND,1320,ND,ND,ND
+215/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-04-11,ND,ND,ND,ND,ND,ND,ND
+216/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-04-12,ND,ND,ND,2600,ND,ND,ND
+217/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-04-12,ND,ND,ND,2000,ND,ND,ND
+219/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-04-17,ND,300,ND,44400,ND,ND,ND
+220/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+222/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-04-17,ND,40,ND,640,ND,ND,ND
+223/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-04-17,ND,ND,ND,80,ND,ND,ND
+224/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-04-17,ND,ND,ND,ND,ND,ND,100
+225/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+226/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-04-17,ND,ND,ND,400,ND,ND,ND
+227/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+228/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-04-17,ND,ND,100,ND,ND,ND,ND
+229/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+230/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+231/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-04-17,ND,ND,ND,ND,ND,ND,ND
+232/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-04-17,ND,ND,ND,1600,ND,ND,ND
+233/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-04-17,ND,ND,ND,520,ND,ND,ND
+234/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-04-17,ND,ND,ND,9200,ND,ND,ND
+235/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-04-17,ND,ND,ND,9300,ND,ND,ND
+236/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-04-18,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+237/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-04-18,ND,ND,ND,ND,ND,ND,ND
+238/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-04-18,ND,ND,ND,800,ND,ND,ND
+239/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-04-18,ND,ND,ND,ND,ND,ND,ND
+240/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-04-17,ND,ND,ND,8200,ND,ND,ND
+241/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-04-18,ND,ND,ND,400,ND,ND,ND
+242/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-04-19,ND,ND,ND,ND,ND,ND,ND
+243/23,Walton Backwaters,B011Q,Tendring DC,TM24272367,Twizzle,2023-04-19,ND,ND,ND,ND,ND,ND,ND
+244/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-04-19,ND,ND,ND,ND,ND,ND,ND
+245/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-04-19,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+246/23,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2023-04-20,ND,ND,ND,ND,ND,ND,ND
+248/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-04-20,ND,ND,ND,ND,ND,ND,ND
+249/23,Conwy,B044V,Conwy CBC,SH76317972,Conwy West,2023-04-20,ND,ND,ND,1100,ND,ND,ND
+250/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-04-19,ND,ND,ND,16400,ND,ND,ND
+251/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-04-20,ND,ND,ND,ND,ND,ND,ND
+252/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-04-19,ND,ND,ND,160,ND,ND,ND
+253/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-04-20,ND,ND,ND,ND,ND,ND,ND
+254/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-04-24,ND,ND,ND,ND,ND,ND,ND
+255/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-04-24,100,ND,ND,ND,ND,ND,ND
+256/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-04-24,ND,ND,ND,400,ND,ND,ND
+257/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-04-24,ND,ND,ND,200,ND,ND,ND
+258/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-04-24,ND,ND,ND,ND,ND,ND,ND
+259/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-04-25,ND,40,ND,27080,ND,ND,ND
+260/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-04-25,ND,ND,ND,ND,ND,ND,ND
+261/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-04-25,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+262/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-04-25,200,ND,ND,ND,ND,ND,ND
+263/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-04-25,ND,ND,ND,ND,ND,ND,ND
+264/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-04-25,ND,ND,ND,ND,ND,ND,ND
+265/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-04-25,ND,ND,ND,2500,ND,ND,ND
+266/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-04-25,ND,ND,ND,11200,ND,ND,ND
+267/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-04-25,ND,40,ND,320,ND,ND,ND
+268/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-04-26,ND,ND,ND,400,ND,ND,ND
+270/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-04-26,ND,ND,ND,ND,ND,ND,ND
+271/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-04-25,ND,ND,ND,ND,ND,ND,ND
+272/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-04-25,ND,ND,ND,ND,ND,ND,ND
+273/23,Walton Backwaters,B011Q,Tendring DC,TM24272367,Twizzle,2023-04-26,ND,ND,ND,ND,ND,ND,ND
+274/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-05-02,ND,ND,ND,ND,ND,ND,ND
+275/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-05-02,ND,200,ND,3000,ND,ND,ND
+276/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-05-02,ND,40,ND,5240,ND,ND,ND
+277/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-05-02,ND,40,ND,21960,ND,ND,ND
+278/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-05-02,ND,40,ND,17760,ND,ND,ND
+279/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-05-02,ND,ND,ND,440,ND,ND,ND
+280/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-05-01,ND,ND,ND,320,ND,ND,ND
+281/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-05-02,ND,ND,ND,4200,ND,ND,ND
+283/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-05-02,ND,ND,ND,ND,ND,ND,ND
+285/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-05-03,ND,200,ND,19480,ND,ND,40
+286/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-05-02,ND,ND,ND,ND,ND,ND,ND
+287/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-05-02,ND,ND,ND,ND,ND,ND,ND
+288/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-05-03,ND,ND,ND,2480,ND,ND,ND
+289/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-05-03,ND,ND,ND,8080,ND,ND,ND
+290/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-05-03,ND,ND,ND,480,ND,ND,ND
+291/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-05-03,ND,80,ND,480,ND,ND,ND
+292/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-05-04,ND,ND,ND,400,ND,ND,ND
+293/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-05-03,ND,ND,ND,8600,ND,ND,ND
+294/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-05-04,ND,ND,ND,ND,ND,ND,ND
+295/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-05-02,ND,80,ND,240,ND,ND,ND
+296/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-05-04,ND,ND,ND,2600,ND,ND,ND
+297/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-05-04,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+298/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-05-09,ND,ND,14000,63400,ND,ND,ND
+299/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-05-09,ND,ND,ND,ND,ND,ND,ND
+300/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-05-09,ND,100,ND,ND,ND,ND,ND
+301/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-05-09,ND,ND,ND,400,ND,ND,ND
+302/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-05-09,ND,ND,ND,1000,ND,ND,ND
+303/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-05-09,ND,ND,ND,1800,ND,ND,ND
+304/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-05-09,ND,ND,ND,ND,ND,ND,ND
+305/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-05-09,ND,ND,ND,ND,ND,ND,ND
+306/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-05-10,ND,ND,ND,4200,ND,ND,ND
+307/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-05-10,ND,160,ND,13840,ND,ND,ND
+308/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-05-10,ND,ND,ND,14280,ND,ND,ND
+309/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-05-10,ND,ND,ND,ND,ND,ND,ND
+310/23,Porlock Relay,B094E,Somerset West and Taunton Council,SS87184778,Porlock Relay,2023-05-10,ND,ND,ND,ND,ND,ND,ND
+311/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-05-10,ND,ND,ND,5800,ND,ND,ND
+312/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-05-10,ND,ND,ND,600,ND,ND,ND
+313/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-05-09,ND,40,ND,3320,ND,ND,ND
+314/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-05-11,ND,ND,ND,9760,ND,ND,ND
+315/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-05-10,ND,ND,ND,600,ND,ND,ND
+316/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-05-10,ND,ND,ND,800,ND,ND,ND
+317/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-05-11,ND,ND,ND,1600,ND,ND,ND
+318/23,Blakeney,B006R,North Norfolk DC,TF91804549,Wells - The Pool,2023-05-11,ND,ND,ND,ND,ND,ND,ND
+319/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-05-11,400,ND,ND,400,ND,ND,ND
+320/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65963701,Stubborn Sand,2023-05-10,ND,ND,ND,ND,ND,ND,ND
+321/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-05-15,ND,ND,ND,200,ND,ND,ND
+323/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-05-15,ND,ND,ND,10360,ND,ND,ND
+324/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-05-15,ND,ND,ND,6800,ND,ND,ND
+325/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-05-15,ND,ND,80,ND,ND,ND,ND
+326/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-05-15,ND,ND,ND,2800,ND,ND,ND
+327/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-05-15,ND,ND,ND,ND,ND,ND,ND
+328/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-05-15,ND,ND,ND,2200,ND,ND,ND
+329/23,Dee,B45AG,Wirral BC,SJ21468468,West Kirby,2023-05-15,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+330/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-05-15,ND,ND,ND,ND,ND,ND,ND
+331/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-05-16,ND,ND,ND,800,ND,ND,ND
+333/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-05-16,ND,ND,ND,ND,ND,ND,ND
+334/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-05-16,ND,40,ND,244000,ND,ND,ND
+335/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-05-16,ND,ND,ND,14160,ND,ND,ND
+336/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-05-15,ND,120,ND,1680,ND,ND,ND
+337/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-05-16,ND,200,ND,200,ND,ND,ND
+338/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-05-17,ND,ND,ND,15600,ND,ND,ND
+339/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-05-16,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+340/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-05-17,ND,ND,ND,ND,ND,ND,ND
+341/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-05-17,ND,ND,ND,4480,ND,ND,ND
+342/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-05-16,ND,ND,ND,55000,ND,ND,ND
+343/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-05-17,ND,ND,ND,520,ND,ND,ND
+344/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-05-16,ND,ND,ND,2640,ND,ND,ND
+345/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-05-17,ND,ND,ND,ND,ND,ND,ND
+346/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-05-17,ND,ND,ND,4000,ND,ND,ND
+347/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-05-17,ND,ND,ND,3400,ND,ND,ND
+348/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-05-17,ND,ND,ND,7400,ND,ND,ND
+349/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-05-16,100,100,ND,1300,ND,ND,ND
+351/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-05-16,ND,ND,ND,ND,ND,ND,ND
+352/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-05-18,ND,ND,ND,ND,ND,ND,ND
+353/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-05-22,ND,ND,ND,ND,ND,ND,ND
+354/23,Burry Inlet,B038L,City and Council of Swansea,SS43409470,Whitford Point,2023-05-22,ND,ND,ND,4200,ND,ND,ND
+355/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-05-22,40,ND,ND,640,ND,ND,ND
+356/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-05-22,100,ND,ND,4300,ND,ND,ND
+357/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-05-22,ND,120,ND,9880,ND,ND,ND
+358/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-05-22,ND,120,ND,7680,ND,ND,ND
+359/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-05-22,ND,ND,ND,ND,ND,ND,ND
+360/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-05-21,ND,ND,ND,ND,ND,ND,ND
+361/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-05-22,ND,ND,ND,ND,ND,ND,ND
+362/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-05-22,ND,ND,ND,800,ND,ND,ND
+363/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-05-23,ND,200,ND,100400,ND,ND,ND
+364/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-05-23,ND,ND,ND,3600,ND,ND,ND
+365/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-05-23,ND,ND,ND,800,ND,ND,ND
+366/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-05-23,ND,ND,ND,ND,ND,ND,ND
+367/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-05-22,40,160,ND,2560,ND,ND,ND
+368/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-05-23,ND,280,ND,1080,ND,ND,ND
+369/23,Anglesey East,B104A,Ynys Mon CC,SH67528109,Anglesey Mussels,2023-05-23,ND,ND,ND,200,ND,ND,ND
+370/23,Walton Backwaters,B011Q,Tendring DC,TM24272367,Twizzle,2023-05-24,ND,ND,ND,ND,ND,ND,ND
+371/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-05-25,ND,ND,ND,2320,ND,ND,ND
+372/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-05-25,ND,ND,ND,800,ND,ND,ND
+373/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-05-25,ND,ND,ND,640,ND,ND,ND
+374/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-05-25,ND,160,ND,7720,ND,ND,ND
+375/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-05-25,ND,ND,ND,2800,ND,ND,ND
+376/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-05-25,ND,ND,ND,ND,ND,ND,ND
+377/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-05-25,ND,ND,ND,ND,ND,ND,ND
+378/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-05-25,ND,ND,ND,7400,ND,ND,ND
+379/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-05-30,200,ND,ND,71400,ND,ND,ND
+380/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-05-30,ND,ND,ND,ND,ND,ND,ND
+382/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-05-30,ND,240,ND,13240,ND,ND,ND
+383/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-05-30,ND,900,ND,15300,ND,ND,ND
+384/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-05-30,ND,320,ND,12920,ND,ND,ND
+385/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-05-30,ND,ND,ND,ND,ND,ND,ND
+386/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-05-30,ND,ND,ND,85120,ND,ND,ND
+387/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-05-31,ND,40,ND,320,ND,ND,ND
+388/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-05-31,ND,ND,ND,800,ND,ND,ND
+390/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-05-31,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+391/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-05-31,ND,ND,ND,ND,ND,ND,ND
+392/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-05-30,ND,ND,ND,480,ND,ND,ND
+393/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-06-01,ND,ND,ND,13600,ND,ND,ND
+394/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-06-01,ND,ND,ND,ND,ND,ND,ND
+395/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-06-05,ND,ND,ND,ND,ND,ND,ND
+396/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-06-05,ND,ND,ND,30900,ND,ND,ND
+397/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-06-05,ND,ND,ND,ND,ND,ND,ND
+399/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-06-05,ND,120,ND,6920,ND,ND,ND
+400/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-06-05,ND,1000,ND,12080,ND,ND,ND
+401/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-06-05,ND,520,ND,11520,ND,ND,ND
+402/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-06-05,ND,ND,ND,ND,ND,ND,ND
+403/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-06-04,ND,ND,ND,ND,ND,ND,ND
+404/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-06-05,ND,ND,ND,600,ND,ND,ND
+405/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-06-05,ND,ND,ND,9000,ND,ND,ND
+406/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-06-05,ND,ND,ND,21400,ND,ND,ND
+407/23,Dee,B45AG,Wirral BC,SJ21468468,West Kirby,2023-06-05,ND,ND,ND,3600,ND,ND,ND
+408/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-06-05,ND,ND,ND,4800,ND,ND,ND
+409/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-06-06,ND,ND,ND,11400,ND,ND,ND
+410/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-06-06,ND,ND,ND,80,ND,ND,ND
+411/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-06-06,ND,ND,ND,400,ND,ND,ND
+412/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-06-06,ND,ND,ND,ND,ND,ND,ND
+413/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-06-06,ND,ND,ND,400,ND,ND,ND
+414/23,Car y Mor,B097D,Pembrokeshire CC,SM72582343,Porthllishy,2023-06-06,ND,ND,ND,8520,ND,ND,ND
+415/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-06-06,40,ND,ND,4360,ND,ND,ND
+416/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-06-06,ND,200,ND,ND,ND,ND,ND
+418/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-06-06,ND,ND,ND,ND,ND,ND,ND
+419/23,Camel,B35AE,Cornwall CC,SW93407530,Porthilly Rock B,2023-06-06,ND,ND,ND,4560,ND,ND,ND
+420/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-06-06,ND,280,ND,880,ND,ND,ND
+421/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-06-06,ND,200,ND,3200,ND,ND,ND
+422/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-06-06,ND,ND,ND,2900,ND,ND,ND
+423/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-06-07,ND,480,ND,14360,ND,ND,ND
+424/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-06-06,ND,ND,ND,ND,ND,ND,ND
+425/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-06-07,ND,ND,ND,1800,ND,ND,ND
+426/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-06-07,ND,ND,ND,ND,ND,ND,ND
+427/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-06-07,ND,ND,ND,1400,ND,ND,ND
+428/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-06-07,ND,ND,ND,880,ND,ND,ND
+429/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-06-05,520,120,ND,8760,ND,ND,ND
+430/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-06-06,ND,120,ND,ND,ND,ND,ND
+431/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-06-07,ND,ND,ND,1800,ND,ND,ND
+432/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-06-08,ND,ND,ND,800,ND,ND,ND
+433/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-06-08,ND,ND,ND,ND,ND,ND,ND
+434/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-06-09,ND,ND,ND,ND,ND,ND,ND
+436/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-06-12,100,600,ND,14400,ND,ND,ND
+437/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79884539,Norton Creek Mussels,2023-06-12,ND,ND,ND,400,ND,ND,ND
+438/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-06-12,ND,500,ND,4000,ND,ND,ND
+439/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-06-12,ND,300,ND,23700,ND,ND,ND
+440/23,West Mersea,B013Z,Colchester BC,TM00001301,The Hard,2023-06-13,ND,ND,ND,ND,ND,ND,ND
+442/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-06-13,ND,120,ND,88000,ND,ND,ND
+443/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-06-13,ND,600,ND,21400,ND,ND,ND
+444/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-06-13,ND,760,ND,11560,ND,ND,ND
+445/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-06-13,ND,ND,ND,ND,ND,ND,ND
+446/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-06-12,ND,ND,ND,1120,ND,ND,ND
+447/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-06-13,ND,ND,ND,160,ND,ND,ND
+448/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-06-13,40,ND,ND,ND,ND,ND,ND
+449/23,Exe,B26BH,Teignbridge DC,SX97948072,Cockwood Harbour,2023-06-13,ND,100,ND,800,ND,ND,ND
+450/23,Teign,B27AC,Teignbridge DC,SX92827284,Gas Works East,2023-06-13,ND,ND,ND,17960,ND,ND,ND
+451/23,Lyme Bay,B090M,Torbay BC,UNVERIFIED,Site 1,2023-06-12,ND,40,ND,3360,ND,ND,ND
+452/23,Anglesey East,B104A,Ynys Mon CC,SH67528109,Anglesey Mussels,2023-06-12,ND,200,ND,1280,ND,ND,ND
+453/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-06-14,ND,ND,ND,ND,ND,ND,ND
+454/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-06-14,ND,ND,ND,ND,ND,ND,ND
+456/23,Morecambe Bay - East,B047S,Lancaster CC,SD40436256,Heysham,2023-06-14,ND,ND,ND,ND,ND,ND,ND
+457/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-06-14,ND,ND,ND,ND,ND,ND,ND
+458/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-06-14,ND,ND,ND,1000,ND,ND,ND
+459/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-06-14,ND,ND,ND,ND,ND,ND,ND
+460/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-06-14,ND,120,ND,240,ND,ND,ND
+461/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-06-15,ND,ND,ND,136000,ND,ND,ND
+462/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-06-15,ND,ND,ND,5000,ND,ND,ND
+463/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-06-15,ND,ND,ND,38480,ND,ND,ND
+464/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148022,Nodwydd,2023-06-15,200,ND,ND,4400,ND,ND,ND
+465/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-06-19,ND,ND,ND,400,ND,ND,ND
+466/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-06-19,ND,ND,ND,1300,ND,ND,ND
+467/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-06-19,ND,ND,ND,ND,ND,ND,ND
+468/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-06-19,ND,ND,ND,ND,ND,ND,ND
+469/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-06-19,ND,ND,ND,ND,ND,ND,ND
+470/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-06-19,ND,ND,ND,ND,ND,ND,ND
+471/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-06-19,ND,ND,ND,ND,ND,ND,ND
+472/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-06-19,ND,ND,ND,1760,ND,ND,ND
+473/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-06-19,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+474/23,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2023-06-19,ND,160,40,ND,ND,ND,2156000
+475/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-06-20,ND,ND,ND,ND,ND,ND,ND
+476/23,Burry Inlet,B038L,City and Council of Swansea,SS44389595,Whitford Point,2023-06-20,ND,ND,ND,80,ND,ND,ND
+477/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-06-20,ND,480,ND,16840,ND,ND,ND
+478/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-06-20,ND,120,ND,11280,ND,ND,ND
+479/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-06-20,ND,240,ND,15240,ND,ND,ND
+480/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-06-20,ND,ND,ND,11080,ND,ND,ND
+481/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-06-20,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+482/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-06-20,ND,ND,ND,ND,ND,ND,ND
+483/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-06-19,ND,ND,ND,1040,ND,ND,ND
+484/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-06-20,ND,1280,ND,840,ND,ND,ND
+485/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-06-20,ND,ND,ND,12680,ND,ND,ND
+486/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-06-20,ND,120,ND,31000,ND,ND,ND
+487/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-06-21,ND,ND,ND,ND,ND,ND,ND
+488/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-06-21,ND,320,ND,57480,ND,ND,ND
+489/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-06-21,ND,ND,ND,59600,ND,ND,ND
+490/23,Dee,B45AB,Flintshire CC,SJ17038031,Salisbury,2023-06-21,ND,ND,ND,1600,ND,ND,ND
+491/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-06-20,ND,ND,ND,ND,ND,ND,ND
+492/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-06-21,ND,160,ND,7120,ND,ND,ND
+493/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-06-21,ND,ND,ND,1300,ND,ND,ND
+494/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-06-21,ND,ND,ND,2300,ND,ND,ND
+495/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-06-21,ND,ND,ND,12520,ND,ND,ND
+496/23,Walton Backwaters,B011Q,Tendring DC,TM24232371,Twizzle,2023-06-21,ND,ND,ND,ND,ND,ND,ND
+497/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-06-20,ND,120,ND,2280,ND,ND,ND
+498/23,Anglesey East,B104A,Ynys Mon CC,SH6758106,Anglesey Mussels,2023-06-20,ND,40,ND,5840,ND,ND,ND
+499/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-06-22,ND,ND,ND,29700,ND,ND,ND
+500/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-06-22,40,ND,ND,22480,ND,ND,ND
+501/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-06-22,ND,ND,ND,21300,ND,ND,ND
+502/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-06-22,ND,100,ND,106000,ND,ND,ND
+503/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-06-23,ND,ND,ND,ND,ND,ND,ND
+505/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-06-26,ND,ND,ND,ND,ND,ND,ND
+506/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-06-26,ND,ND,ND,8500,ND,ND,ND
+507/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-06-26,ND,ND,ND,ND,ND,ND,ND
+508/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-06-26,ND,ND,ND,ND,ND,ND,ND
+509/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-06-26,ND,ND,ND,440,ND,ND,ND
+510/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-06-26,ND,80,ND,160,ND,ND,ND
+511/23,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2023-06-26,ND,2000,ND,240,ND,ND,265000
+512/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-06-26,ND,ND,ND,1700,ND,ND,ND
+513/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-06-27,ND,ND,ND,3640,ND,ND,ND
+514/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-06-27,ND,ND,ND,17760,ND,ND,120
+515/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-06-27,ND,ND,ND,52200,ND,ND,200
+516/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-06-27,ND,240,ND,363000,ND,ND,520
+517/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-06-27,ND,ND,ND,108000,ND,ND,ND
+518/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-06-27,ND,ND,ND,ND,ND,ND,ND
+519/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62560444,Paulsgrove,2023-06-27,ND,ND,ND,ND,ND,ND,ND
+520/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-06-26,ND,760,ND,5360,ND,ND,ND
+521/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-06-26,ND,1200,ND,19300,ND,ND,ND
+522/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-06-28,ND,ND,ND,ND,ND,ND,ND
+524/23,Morecambe Bay - East,B047S,Lancaster CC,SD48160166,Heysham,2023-06-28,ND,ND,ND,1600,ND,ND,ND
+525/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-06-29,ND,ND,ND,ND,ND,ND,ND
+527/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-06-29,100,ND,ND,ND,ND,ND,100
+528/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-06-29,ND,ND,ND,ND,ND,ND,ND
+529/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-07-03,ND,400,ND,ND,ND,ND,ND
+530/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-07-03,ND,ND,ND,1200,ND,ND,ND
+531/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-07-03,ND,ND,ND,1800,ND,ND,ND
+532/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-07-03,ND,40,ND,2120,ND,ND,ND
+533/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-07-03,ND,120,ND,1240,ND,ND,ND
+534/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-07-03,ND,ND,ND,920,ND,ND,ND
+535/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-07-03,ND,ND,ND,ND,ND,ND,ND
+536/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-07-02,ND,40,40,ND,ND,ND,ND
+537/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-07-03,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+539/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53488077,Nodwydd,2023-07-03,ND,ND,ND,16240,ND,ND,ND
+540/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-07-04,ND,ND,ND,ND,ND,ND,ND
+541/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-07-04,ND,ND,ND,ND,ND,ND,ND
+542/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-07-04,ND,ND,ND,21080,ND,ND,ND
+543/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-07-04,ND,ND,ND,500,ND,ND,ND
+544/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-07-04,ND,ND,ND,1900,ND,ND,ND
+545/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-07-04,ND,320,ND,5760,ND,ND,ND
+546/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-07-04,ND,240,ND,22000,ND,ND,ND
+547/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-07-04,ND,280,ND,38960,ND,ND,ND
+548/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-07-04,ND,ND,ND,ND,ND,ND,ND
+549/23,Swansea,B037U,Swansea PHA,SS67659210,Queens Dock,2023-07-04,ND,7960,ND,1800,ND,ND,442000
+550/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-07-04,ND,920,ND,4240,ND,ND,ND
+551/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-07-04,40,160,ND,3880,ND,ND,ND
+552/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-07-04,ND,ND,ND,ND,ND,ND,ND
+553/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-07-05,ND,ND,ND,24880,ND,ND,ND
+554/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-07-05,ND,40,ND,314000,ND,ND,40
+555/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-07-05,ND,120,ND,378000,ND,ND,ND
+556/23,Dee,B45AB,Flintshire CC,SJ17308032,Salisbury,2023-07-05,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+557/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-07-05,ND,ND,ND,2800,ND,ND,ND
+558/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-07-05,ND,ND,ND,ND,ND,ND,ND
+559/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-07-05,ND,ND,ND,ND,ND,ND,ND
+560/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-07-04,ND,ND,ND,8300,ND,ND,ND
+561/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-07-06,ND,ND,ND,ND,ND,ND,ND
+562/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-07-06,ND,ND,ND,1600,ND,ND,ND
+564/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-07-10,ND,40,ND,28080,ND,ND,ND
+565/23,Mevagissey Bay,B70AK,Cornwall PHA,SK05214698,South Mevagissey Bottom,2023-07-10,ND,40,ND,353000,ND,ND,ND
+566/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-07-10,ND,880,ND,447000,ND,ND,ND
+567/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-07-10,ND,ND,ND,ND,ND,ND,ND
+568/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-07-10,ND,ND,ND,ND,ND,ND,ND
+569/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-07-10,ND,ND,ND,ND,ND,ND,ND
+570/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-07-10,ND,400,ND,1120,ND,ND,ND
+571/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-07-10,ND,ND,ND,10080,ND,ND,ND
+572/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-07-11,ND,160,ND,321000,ND,ND,ND
+573/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-07-11,ND,120,ND,10520,ND,ND,ND
+574/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-07-10,ND,ND,ND,3200,ND,ND,ND
+575/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-07-11,ND,ND,ND,500,ND,ND,ND
+576/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-07-11,ND,ND,ND,54200,ND,ND,ND
+577/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-07-12,ND,ND,ND,400,ND,ND,ND
+579/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-07-12,ND,ND,ND,73900,ND,ND,ND
+580/23,Menai Strait East,B055S,Gwynedd CC,SH58334732,West of Bangor Pier,2023-07-11,ND,ND,ND,240,ND,ND,ND
+581/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-07-11,ND,ND,200,2800,ND,ND,ND
+582/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126170,Heysham,2023-07-12,ND,ND,ND,ND,ND,ND,ND
+583/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-07-12,ND,ND,ND,800,ND,ND,ND
+584/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-07-12,ND,ND,ND,1600,ND,ND,ND
+585/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-07-12,ND,ND,ND,2400,ND,ND,ND
+586/23,Teign,B27AC,Teignbridge DC,SX933 729,Gas Works East,2023-07-12,ND,ND,ND,8760,ND,ND,ND
+587/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-07-12,ND,40,ND,19280,ND,ND,40
+588/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-07-12,ND,ND,ND,3320,ND,ND,ND
+589/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53488077,Nodwydd,2023-07-12,ND,ND,ND,5000,ND,ND,ND
+590/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-07-13,ND,ND,ND,ND,ND,ND,ND
+592/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-07-12,ND,ND,ND,ND,ND,ND,ND
+593/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-07-13,ND,ND,ND,1200,ND,ND,ND
+594/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-07-17,ND,ND,ND,3300,ND,ND,ND
+595/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-07-17,ND,ND,ND,10200,ND,ND,ND
+596/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-07-17,ND,ND,ND,ND,ND,ND,ND
+597/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-07-17,ND,ND,ND,ND,ND,ND,ND
+598/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-07-17,ND,ND,ND,2600,ND,ND,ND
+599/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-07-17,ND,ND,ND,2840,ND,ND,ND
+600/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-07-17,ND,ND,ND,1200,ND,ND,ND
+601/23,Burry Inlet,B038L,City and Council of Swansea,SS44389595,Whitford Point,2023-07-18,ND,ND,ND,ND,ND,ND,ND
+602/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-07-18,ND,240,ND,412000,ND,ND,ND
+603/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-07-18,ND,80,ND,267000,ND,ND,ND
+604/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-07-18,ND,80,ND,863000,ND,ND,ND
+605/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-07-18,ND,ND,ND,ND,ND,ND,ND
+606/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-07-18,ND,ND,ND,1080,ND,ND,ND
+607/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-07-18,ND,80,ND,10480,ND,ND,ND
+608/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-07-18,ND,200,ND,6400,ND,ND,ND
+609/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-07-17,ND,160,ND,8880,ND,ND,ND
+610/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-07-18,ND,ND,ND,1600,ND,ND,ND
+612/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-07-19,ND,ND,ND,ND,ND,ND,ND
+613/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-07-19,ND,40,ND,3120,ND,ND,ND
+614/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-07-19,ND,40,ND,4600,ND,ND,ND
+615/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-07-19,ND,ND,ND,3680,ND,ND,ND
+616/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-07-19,ND,ND,ND,3880,ND,ND,ND
+617/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-07-19,ND,40,ND,246000,ND,ND,ND
+618/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-07-19,ND,ND,ND,3760,ND,ND,ND
+619/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-07-19,ND,ND,ND,ND,ND,ND,ND
+620/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-07-19,ND,ND,ND,151000,ND,ND,ND
+621/23,Solent,B24BK,Southampton PHA,SZ5749794,Browndown,2023-07-19,ND,ND,ND,ND,ND,ND,ND
+622/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-07-19,ND,ND,ND,ND,ND,ND,ND
+623/23,Walton Backwaters,B011Q,Tendring DC,TM24272367,Twizzle,2023-07-19,ND,ND,ND,ND,ND,ND,ND
+624/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-07-18,ND,ND,ND,2000,ND,ND,ND
+625/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-07-19,ND,40,ND,30400,ND,ND,ND
+626/23,Dee,B45AB,Flintshire CC,SJ17038032,Salisbury,2023-07-24,ND,ND,ND,2200,ND,ND,ND
+627/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-07-24,ND,ND,ND,200,ND,ND,ND
+628/23,Câr y Môr,B097D,Pembrokeshire CC,SM725823,Porthllisky,2023-07-24,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+629/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-07-24,ND,640,ND,263000,ND,ND,ND
+630/23,North Kent Coast,B17BS,Canterbury CC,TR10326689,WOCO Westbeach,2023-07-24,ND,ND,ND,ND,ND,ND,ND
+631/23,Helford,B034W,Cornwall PHA,SW75462765,Porth Navas Quay,2023-07-25,ND,ND,ND,9080,ND,ND,ND
+632/23,Lantivet Bay,B70AI,Cornwall PHA,SX16303094,Sandheap Point,2023-07-25,ND,40,ND,656000,ND,ND,ND
+633/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-07-25,ND,40,ND,763000,ND,ND,ND
+634/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-07-25,ND,ND,ND,500000,ND,ND,ND
+635/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-07-25,ND,ND,ND,ND,ND,ND,ND
+636/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-07-25,ND,ND,ND,100,ND,ND,ND
+637/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-07-24,ND,ND,ND,ND,ND,ND,ND
+638/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-07-25,ND,ND,ND,400,ND,ND,ND
+639/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-07-25,ND,ND,ND,80,ND,ND,ND
+640/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-07-26,ND,ND,ND,ND,ND,ND,ND
+642/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-07-26,ND,ND,ND,667000,ND,ND,ND
+643/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126169,Heysham,2023-07-25,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+644/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62560444,Paulsgrove,2023-07-25,ND,ND,ND,ND,ND,ND,ND
+645/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-07-26,ND,ND,ND,1300,ND,ND,ND
+646/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-07-26,ND,ND,ND,2700,ND,ND,ND
+647/23,Teign,B27AC,Teignbridge DC,SX933729,Gas Works East,2023-07-26,ND,ND,ND,7920,ND,ND,ND
+648/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-07-24,ND,ND,ND,2600,ND,ND,ND
+649/23,Brixham,B082C,Torbay BC,SX93996191,Torquay Mussels NW,2023-07-24,ND,40,ND,1360,ND,ND,ND
+650/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-07-24,ND,ND,ND,680,ND,ND,ND
+651/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-07-27,ND,ND,ND,600,ND,ND,ND
+652/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-07-28,ND,ND,ND,480,ND,ND,ND
+654/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-07-27,ND,ND,ND,ND,ND,ND,ND
+655/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-07-31,ND,ND,ND,ND,ND,ND,ND
+656/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-07-31,ND,ND,ND,400,ND,ND,ND
+657/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-07-31,ND,ND,ND,21760,ND,ND,ND
+658/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-08-01,ND,ND,ND,200,ND,ND,ND
+659/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+660/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-08-01,ND,ND,ND,1800,ND,ND,ND
+661/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-08-01,ND,ND,ND,121000,ND,ND,ND
+662/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-08-01,ND,ND,ND,1090000,ND,ND,ND
+663/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-08-01,ND,ND,ND,1312000,ND,ND,ND
+664/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+665/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+666/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+667/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+668/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+669/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-08-01,40,ND,ND,ND,ND,ND,ND
+670/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53148077,Nodwydd,2023-08-01,ND,ND,ND,2800,ND,ND,ND
+671/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+672/23,Conwy,B044V,Conwy CBC,SH73087972,Conwy West,2023-08-02,ND,ND,ND,4000,ND,ND,ND
+673/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-08-01,ND,ND,ND,ND,ND,ND,ND
+674/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126170,Heysham,2023-08-02,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+675/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-08-02,ND,ND,ND,ND,ND,ND,ND
+676/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-08-02,ND,ND,ND,640,ND,ND,ND
+677/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-08-03,ND,ND,ND,321000,ND,ND,ND
+678/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-08-03,ND,ND,ND,ND,ND,ND,ND
+679/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-08-02,ND,ND,ND,293000,ND,ND,ND
+680/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-08-02,ND,ND,ND,ND,ND,ND,ND
+681/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-08-01,ND,40,ND,680,ND,ND,ND
+682/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-08-01,ND,ND,ND,7840,ND,ND,ND
+683/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-08-01,ND,ND,ND,800,ND,ND,ND
+684/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-08-04,ND,ND,ND,400,ND,ND,ND
+686/23,Fal (Lower),B33AN,Cornwall PHA,SW81963551,Mylor Creek,2023-08-07,ND,ND,ND,191000,ND,ND,ND
+687/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-08-07,ND,ND,ND,19100,ND,ND,ND
+688/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-08-07,ND,ND,ND,26000,ND,ND,ND
+689/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-08-07,ND,ND,ND,996000,ND,ND,ND
+690/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-08-07,ND,ND,ND,1795000,ND,ND,ND
+691/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-08-07,ND,ND,ND,797000,ND,ND,ND
+692/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-08-07,ND,ND,ND,ND,ND,ND,ND
+693/23,Morecambe Bay - East,B047S,Lancaster CC,SD41116169,Heysham,2023-08-07,ND,ND,ND,ND,ND,ND,ND
+694/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-08-07,ND,ND,ND,4600,ND,ND,ND
+695/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-08-07,ND,ND,ND,ND,ND,ND,680
+696/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-08-08,ND,ND,ND,ND,ND,ND,ND
+697/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-08-08,ND,ND,ND,2800,ND,ND,ND
+698/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-08-08,ND,ND,ND,ND,ND,ND,ND
+699/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-08-08,ND,ND,ND,ND,ND,ND,ND
+700/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-08-07,ND,ND,ND,5360,ND,ND,ND
+701/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-08-07,ND,ND,ND,1280,ND,ND,ND
+702/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-08-09,ND,ND,ND,ND,ND,ND,ND
+704/23,West Mersea,B013Z,Colchester BC,TL99951309,The Hard,2023-08-09,ND,ND,ND,ND,ND,ND,ND
+705/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-08-09,ND,ND,ND,ND,ND,ND,ND
+706/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-08-09,ND,ND,ND,ND,ND,ND,ND
+707/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-08-09,ND,ND,ND,400,ND,ND,ND
+708/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-08-09,ND,ND,ND,ND,ND,ND,ND
+709/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-08-09,ND,ND,ND,4300,ND,ND,ND
+710/23,Teign,B27AC,Teignbridge DC,SX933729,Gas Works East,2023-08-09,ND,ND,ND,10040,ND,ND,ND
+711/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-08-10,ND,ND,ND,ND,ND,ND,ND
+713/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-08-10,ND,ND,ND,45200,ND,ND,ND
+714/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-08-10,ND,ND,ND,921000,ND,ND,ND
+715/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-08-14,ND,ND,ND,800,ND,ND,ND
+716/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-08-14,ND,ND,ND,ND,ND,ND,ND
+717/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-08-14,ND,ND,ND,ND,ND,ND,ND
+718/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-08-14,ND,ND,ND,160,ND,ND,ND
+719/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-08-15,ND,ND,ND,ND,ND,ND,ND
+720/23,Burry Inlet,B038L,City and Council of Swansea,SS45051968,Whitford Point,2023-08-15,ND,ND,ND,ND,ND,ND,ND
+721/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-08-15,ND,ND,ND,1323000,ND,ND,ND
+722/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-08-15,ND,ND,ND,810000,ND,ND,ND
+723/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-08-15,ND,ND,ND,571000,ND,ND,ND
+724/23,Dee,B45AB,Flintshire CC,SJ17008014,Salisbury,2023-08-15,ND,ND,ND,1600,ND,ND,ND
+725/23,Menai Strait East,B055S,Gwynedd CC,SH58334732,West of Bangor Pier,2023-08-14,ND,ND,ND,ND,ND,ND,ND
+726/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-08-14,ND,ND,ND,300,ND,ND,ND
+727/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-08-14,ND,ND,ND,ND,ND,ND,ND
+728/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-08-15,ND,ND,ND,880,ND,ND,ND
+729/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-08-15,ND,ND,ND,2720,ND,ND,ND
+730/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-08-16,ND,ND,ND,ND,ND,ND,ND
+731/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-08-16,ND,ND,ND,7880,ND,ND,ND
+732/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-08-16,ND,ND,ND,ND,ND,ND,ND
+733/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-08-16,ND,ND,ND,200,ND,ND,ND
+734/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-08-15,ND,ND,ND,ND,ND,ND,ND
+736/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-08-15,ND,ND,ND,ND,ND,ND,ND
+737/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-08-17,ND,ND,ND,30100,ND,ND,ND
+738/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-08-17,ND,ND,ND,1667000,ND,ND,ND
+739/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-08-17,ND,ND,ND,ND,ND,ND,ND
+740/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-08-21,ND,ND,ND,400,ND,ND,ND
+741/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-08-21,ND,ND,ND,240,ND,ND,ND
+742/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-08-21,ND,ND,ND,ND,ND,ND,ND
+743/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-08-21,ND,ND,ND,ND,ND,ND,ND
+744/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-08-21,ND,ND,ND,ND,ND,ND,ND
+745/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-08-22,ND,ND,ND,ND,ND,ND,ND
+746/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-08-22,ND,ND,ND,8520,ND,ND,40
+747/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-08-21,ND,ND,40,560,ND,ND,138000
+748/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-08-22,ND,ND,ND,700,ND,ND,ND
+749/23,Teign,B27AC,Teignbridge DC,SX933729,Gas Works East,2023-08-22,ND,ND,ND,12120,ND,ND,ND
+750/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-08-22,ND,ND,ND,1960,ND,ND,ND
+751/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-08-21,ND,ND,ND,22360,ND,ND,ND
+752/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-08-22,ND,ND,ND,120000,ND,ND,ND
+753/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-08-22,ND,ND,ND,114000,ND,ND,ND
+754/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-08-22,ND,ND,ND,5320,ND,ND,ND
+755/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126169,Heysham,2023-08-22,ND,ND,ND,3800,ND,ND,ND
+756/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62560444,Paulsgrove,2023-08-22,ND,ND,ND,ND,ND,ND,ND
+757/23,Walton Backwaters,B011Q,Tendring DC,TM 24232371,Twizzle,2023-08-23,ND,ND,ND,ND,ND,ND,ND
+758/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-08-24,ND,ND,ND,5600,ND,ND,ND
+759/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-08-24,ND,ND,ND,155000,ND,ND,ND
+760/23,Dee,B45AB,Flintshire CC,SJ17278018,Salisbury,2023-08-23,ND,ND,ND,4800,ND,ND,ND
+761/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-08-29,ND,ND,ND,1200,ND,ND,ND
+762/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-08-29,ND,ND,ND,ND,ND,ND,ND
+763/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-08-29,ND,ND,ND,ND,ND,ND,ND
+765/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-08-29,ND,ND,ND,640,ND,ND,ND
+766/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-08-29,ND,ND,ND,ND,ND,ND,ND
+767/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-08-28,ND,ND,200,ND,ND,ND,ND
+768/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-08-28,ND,ND,ND,ND,ND,ND,ND
+769/23,Taw/Torridge,B036V,Torridge DC,SS46403160,Neck Gut 1,2023-08-29,ND,ND,ND,520,ND,ND,ND
+770/23,Anglesey - Red Wharf Bay,B057J,Ynys Mon CC,SH53488077,Nodwydd,2023-08-29,ND,ND,ND,ND,ND,ND,ND
+771/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-08-30,ND,ND,ND,ND,ND,ND,ND
+773/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-08-30,ND,ND,ND,2760,ND,ND,ND
+774/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-08-30,ND,ND,ND,3120,ND,ND,ND
+775/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-08-30,ND,ND,ND,800,ND,ND,ND
+776/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-08-30,ND,ND,ND,ND,ND,ND,ND
+777/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-08-29,ND,ND,ND,ND,ND,ND,ND
+778/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-08-30,ND,ND,ND,800,ND,ND,ND
+780/23,Conwy,B044V,Conwy CBC,SH77617954,Conwy West,2023-08-31,ND,ND,ND,200,ND,ND,ND
+781/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-08-31,ND,ND,ND,560,ND,ND,ND
+782/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-09-04,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+783/23,Conwy,B044V,Conwy CBC,SH77617954,Conwy West,2023-09-04,ND,ND,ND,400,ND,ND,ND
+784/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-09-04,ND,ND,ND,6640,ND,ND,ND
+785/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-09-04,ND,ND,ND,1900,ND,ND,ND
+786/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-09-03,ND,ND,ND,2440,ND,ND,ND
+787/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-09-04,ND,ND,ND,ND,ND,ND,ND
+788/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-09-04,ND,ND,ND,11300,ND,ND,ND
+789/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-09-04,ND,ND,ND,1000,ND,ND,ND
+790/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-09-05,ND,ND,ND,ND,ND,ND,ND
+791/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-09-04,ND,ND,ND,ND,ND,ND,ND
+792/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-09-05,ND,40,ND,2800,ND,ND,ND
+793/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-09-05,ND,ND,ND,400,ND,ND,ND
+794/23,Morecambe Bay - East,B047S,Lancaster CC,SD41116170,Heysham,2023-09-05,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+795/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-09-04,ND,ND,ND,ND,ND,ND,ND
+796/23,Blakeney,B006R,North Norfolk DC,TF91604549,Wells - The Pool,2023-09-05,ND,ND,ND,3360,ND,ND,ND
+797/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-09-05,ND,ND,ND,160,ND,ND,ND
+798/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-09-05,ND,ND,ND,800,ND,ND,640
+799/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-09-06,ND,ND,ND,250000,ND,ND,ND
+800/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-09-06,ND,80,ND,350000,ND,ND,ND
+801/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-09-06,ND,40,ND,376000,ND,ND,ND
+802/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-09-06,ND,ND,ND,ND,ND,ND,ND
+803/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-09-06,ND,ND,ND,ND,ND,ND,ND
+804/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-09-06,ND,ND,ND,ND,ND,ND,ND
+805/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-09-06,ND,ND,ND,4320,ND,ND,ND
+806/23,Teign,B27AC,Teignbridge DC,SX933729,Gas Works East,2023-09-06,ND,40,ND,15120,ND,ND,ND
+807/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-09-06,ND,40,ND,440,ND,ND,ND
+808/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-09-06,ND,ND,ND,ND,ND,ND,ND
+809/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-09-06,ND,ND,ND,ND,ND,ND,ND
+810/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-09-11,ND,ND,ND,ND,ND,ND,ND
+812/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-09-11,ND,ND,ND,160,ND,ND,ND
+813/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-09-11,ND,ND,ND,ND,ND,ND,ND
+814/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-09-11,ND,ND,ND,ND,ND,ND,ND
+815/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-09-11,ND,ND,ND,ND,ND,ND,ND
+816/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-09-12,ND,ND,ND,ND,ND,ND,ND
+818/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-09-12,ND,360,ND,12360,ND,ND,ND
+819/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-09-12,ND,240,ND,46760,ND,ND,ND
+820/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-09-12,ND,120,ND,19400,ND,ND,ND
+821/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-09-12,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+822/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126170,Heysham,2023-09-12,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+823/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-09-12,ND,ND,ND,ND,ND,ND,ND
+824/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-09-12,ND,ND,ND,ND,ND,ND,ND
+825/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-09-11,ND,120,ND,240,ND,ND,ND
+826/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-09-12,ND,ND,ND,ND,ND,ND,ND
+828/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-09-13,ND,ND,ND,160,ND,ND,ND
+829/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-09-13,ND,400,ND,400,ND,ND,ND
+830/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-09-12,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+831/23,Câr y Môr,B097D,Pembrokeshire CC,SM725823,Porthllisky,2023-09-13,ND,ND,ND,600,ND,ND,ND
+832/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-09-13,ND,ND,ND,ND,ND,ND,ND
+833/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-09-13,ND,ND,ND,320,ND,ND,ND
+834/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-09-14,ND,ND,ND,ND,ND,ND,ND
+835/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-09-18,ND,ND,ND,240,ND,ND,ND
+836/23,Burry Inlet,B038Y,Carmarthenshire CC,SS50209860,Machynys,2023-09-18,ND,ND,ND,ND,ND,ND,ND
+837/23,Burry Inlet,B038L,City and Council of Swansea,SS44209615,Whitford Point,2023-09-18,ND,ND,ND,80,ND,ND,ND
+838/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-09-18,ND,ND,ND,ND,ND,ND,ND
+839/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-09-18,ND,ND,ND,400,ND,ND,ND
+840/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-09-18,ND,ND,ND,ND,ND,ND,ND
+841/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-09-18,ND,ND,ND,ND,ND,ND,ND
+842/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-09-18,ND,200,ND,ND,ND,ND,ND
+843/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-09-18,ND,800,ND,80,ND,ND,ND
+844/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-09-18,ND,520,ND,ND,ND,ND,ND
+845/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-09-18,ND,ND,ND,600,ND,ND,ND
+846/23,Morecambe Bay - East,B047S,Lancaster CC,SD41116170,Heysham,2023-09-18,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+847/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-09-18,ND,ND,ND,200,ND,ND,ND
+848/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-09-18,ND,ND,ND,400,ND,ND,ND
+849/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-09-18,ND,ND,ND,ND,ND,ND,ND
+850/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-09-18,ND,200,ND,ND,ND,ND,ND
+851/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-09-18,ND,ND,ND,800,ND,ND,ND
+852/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-09-19,ND,ND,ND,ND,ND,ND,ND
+853/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-09-19,ND,ND,ND,ND,ND,ND,ND
+854/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-09-19,ND,ND,ND,700,ND,ND,ND
+855/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-09-20,ND,ND,ND,ND,ND,ND,ND
+856/23,Walton Backwaters,B011Q,Tendring DC,TM24232371,Twizzle,2023-09-20,ND,ND,ND,ND,ND,ND,ND
+857/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-09-21,ND,ND,ND,ND,ND,ND,ND
+858/23,Blakeney,B006R,North Norfolk DC,TF91604549,Wells - The Pool,2023-09-21,ND,ND,ND,3520,ND,ND,ND
+859/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+860/23,Fal (Lower),B33AN,Cornwall PHA,SW81963546,Mylor Creek,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+861/23,Fal (Upper),B033Y,Cornwall PHA,SW85024095,Ruan Pontoon/Tregothnan,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+862/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+863/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-09-25,ND,ND,ND,320,ND,ND,ND
+864/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+865/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+866/23,The Thames,B16CN,London PHA,TR06779599,Crouch Approach,2023-09-25,ND,100,ND,ND,ND,ND,ND
+867/23,The Thames,B16CM,London PHA,TR00508769,East of Havengore Creek,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+868/23,The Thames,B16BR,London PHA,TQ93798271,Phoenix,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+869/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-09-24,ND,ND,ND,ND,ND,ND,ND
+870/23,Câr y Môr,B097D,Pembrokeshire CC,SM72582343,Porthllisky,2023-09-23,ND,ND,ND,560,ND,ND,ND
+871/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-09-25,ND,ND,ND,ND,ND,ND,ND
+872/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-09-20,ND,ND,ND,ND,ND,ND,ND
+873/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-09-20,ND,ND,ND,ND,ND,ND,ND
+874/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-09-26,ND,ND,ND,ND,ND,ND,30500
+875/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-09-26,ND,ND,ND,ND,ND,ND,ND
+877/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-09-25,ND,ND,ND,4400,ND,ND,ND
+878/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-09-25,ND,ND,ND,2200,ND,ND,ND
+879/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-09-25,ND,100,ND,400,ND,ND,ND
+880/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62560444,Paulsgrove,2023-09-26,ND,ND,ND,ND,ND,ND,ND
+881/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-09-26,ND,ND,ND,800,ND,ND,ND
+882/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-09-26,ND,ND,ND,ND,ND,ND,100
+883/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-09-25,ND,600,ND,ND,ND,ND,200
+884/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-09-27,ND,ND,ND,160,ND,ND,ND
+885/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-09-27,ND,ND,ND,ND,ND,ND,ND
+887/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-09-27,ND,ND,ND,ND,ND,ND,ND
+888/23,Morecambe Bay - East,B047S,Lancaster CC,SD41116169,Heysham,2023-09-27,ND,ND,ND,ND,ND,ND,ND
+889/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-09-28,ND,ND,ND,ND,ND,ND,ND
+890/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-09-28,ND,ND,ND,ND,ND,ND,ND
+891/23,Conwy,B044V,Conwy CBC,SH77617954,Conwy West,2023-10-02,ND,ND,ND,2160,ND,ND,ND
+892/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-10-02,ND,ND,ND,400,ND,ND,ND
+893/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-10-02,ND,560,ND,560,ND,ND,9000
+894/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-10-02,ND,1840,ND,760,ND,ND,310000
+895/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-10-02,ND,720,ND,480,ND,ND,5960
+896/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-10-02,ND,ND,ND,ND,ND,ND,ND
+897/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-10-02,ND,ND,ND,ND,ND,ND,ND
+898/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-10-02,ND,ND,ND,ND,ND,ND,ND
+899/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-10-02,ND,ND,ND,ND,ND,ND,ND
+900/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-10-03,ND,ND,ND,200,ND,ND,ND
+901/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-10-02,ND,ND,ND,ND,ND,ND,ND
+902/23,Câr y Môr,B097D,Pembrokeshire CC,SM725823,Porthllisky,2023-10-02,ND,ND,ND,320,ND,ND,ND
+903/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-10-03,ND,ND,ND,800,ND,ND,ND
+904/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-10-03,ND,ND,ND,ND,ND,ND,ND
+905/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-10-02,ND,80,ND,320,ND,ND,ND
+906/23,Lune,BO66Z,Wyre BC,SD34194862,Knott Spit,2023-10-02,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+908/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-10-04,ND,ND,ND,ND,ND,ND,200
+909/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-10-04,ND,ND,ND,400,ND,ND,ND
+910/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-10-04,ND,ND,ND,ND,ND,ND,ND
+911/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-10-04,ND,ND,ND,ND,ND,ND,ND
+912/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-10-03,ND,ND,ND,3400,ND,ND,ND
+913/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-10-03,ND,ND,ND,ND,ND,ND,ND
+914/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-10-04,ND,ND,ND,ND,ND,ND,ND
+915/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-10-04,ND,ND,ND,ND,ND,ND,ND
+916/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-10-04,ND,ND,ND,ND,ND,ND,ND
+917/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-10-05,ND,ND,ND,480,ND,ND,ND
+918/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-10-05,ND,80,ND,1560,ND,ND,25840
+919/23,Blakeney,B006R,North Norfolk DC,TF91604549,Wells - The Pool,2023-10-05,ND,ND,ND,400,ND,ND,ND
+920/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-10-09,ND,1300,ND,7400,ND,ND,445000
+921/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-10-09,ND,440,ND,5840,ND,ND,8560
+922/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-10-09,ND,880,ND,9160,ND,ND,4080
+923/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-10-09,ND,ND,ND,800,ND,ND,ND
+924/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-10-10,ND,ND,ND,ND,ND,ND,ND
+925/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-10-10,ND,ND,ND,13900,ND,ND,ND
+926/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-10-10,ND,ND,ND,5500,ND,ND,ND
+927/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-10-11,ND,ND,ND,ND,ND,ND,ND
+928/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-10-11,ND,ND,ND,ND,ND,ND,ND
+930/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-10-11,ND,ND,ND,ND,ND,ND,ND
+931/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126170,Heysham,2023-10-11,ND,ND,ND,ND,ND,ND,ND
+932/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-10-11,ND,ND,ND,ND,ND,ND,ND
+933/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-10-16,ND,ND,ND,160,ND,ND,ND
+934/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-10-16,ND,80,ND,1280,ND,ND,3360
+935/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-10-16,ND,40,ND,1600,ND,ND,ND
+936/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-10-16,ND,ND,ND,ND,ND,ND,ND
+937/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-10-15,ND,ND,ND,ND,ND,ND,ND
+938/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-10-16,ND,ND,ND,ND,ND,ND,ND
+939/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-10-16,ND,ND,ND,ND,ND,ND,ND
+940/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-10-17,ND,ND,ND,ND,ND,ND,ND
+941/23,Burry Inlet,B038L,City and Council of Swansea,SS45059688,Whitford Point,2023-10-17,ND,ND,ND,ND,ND,ND,ND
+942/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-10-17,ND,ND,ND,ND,ND,ND,ND
+943/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-10-17,ND,ND,ND,400,ND,ND,ND
+944/23,Teign,B27AC,Teignbridge DC,SX93372729,Gas Works East,2023-10-17,ND,ND,ND,ND,ND,ND,ND
+945/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-10-18,ND,ND,ND,ND,ND,ND,ND
+946/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-10-19,ND,ND,ND,600,ND,ND,ND
+947/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-10-23,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+948/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-10-23,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+949/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-10-24,ND,ND,ND,ND,ND,ND,ND
+950/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-10-25,ND,ND,ND,ND,ND,ND,ND
+952/23,West Mersea,B013Z,Colchester BC,TL99951309,The Hard,2023-10-25,ND,ND,ND,ND,ND,ND,ND
+953/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-10-25,ND,40,ND,ND,ND,ND,ND
+954/23,Dart,B028B,South Hams DC,SX87415599,Waddeton,2023-10-30,ND,ND,ND,ND,ND,ND,ND
+955/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-11-01,ND,ND,ND,ND,ND,ND,ND
+956/23,Blakeney,B006R,North Norfolk DC,TF91604549,Wells - The Pool,2023-11-02,ND,ND,ND,ND,ND,ND,ND
+957/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-11-06,ND,ND,ND,ND,ND,ND,ND
+958/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-11-06,ND,ND,ND,ND,ND,ND,ND
+959/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-11-07,ND,ND,ND,ND,ND,ND,ND
+960/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-11-07,ND,ND,ND,ND,ND,ND,ND
+961/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-11-07,ND,ND,ND,ND,ND,ND,ND
+962/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-11-07,ND,ND,ND,500,ND,ND,ND
+963/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-11-06,ND,ND,ND,800,ND,ND,ND
+964/23,West Mersea,B013Z,Colchester BC,TL99921300,The Hard,2023-11-08,ND,ND,ND,ND,ND,ND,ND
+966/23,Menai Strait East,B055S,Gwynedd CC,SH58337328,West of Bangor Pier,2023-11-07,ND,ND,ND,ND,ND,ND,ND
+967/23,Menai Strait West,B042O,Gwynedd CC,SH49916579,Area 11 East,2023-11-07,ND,ND,ND,ND,ND,ND,ND
+968/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-11-08,ND,ND,ND,240,ND,ND,200
+970/23,Colne,B012F,Colchester BC,TM06201600,Pyefleet Spit,2023-11-09,ND,ND,ND,ND,ND,ND,ND
+971/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-11-09,ND,ND,ND,ND,ND,ND,ND
+972/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-11-13,ND,ND,ND,ND,ND,ND,ND
+973/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-11-13,ND,ND,ND,ND,ND,ND,ND
+974/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-11-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+975/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-11-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+976/23,Câr y Môr,B097A,Pembrokeshire CC,SM71832397,Carn ar Wig,2023-11-11,ND,ND,ND,ND,ND,ND,ND
+977/23,Burry Inlet,B038L,City and Council of Swansea,SS45059688,Whitford Point,2023-11-14,ND,ND,ND,300,ND,ND,ND
+978/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-11-14,ND,ND,ND,ND,ND,ND,ND
+979/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126169,Heysham,2023-11-14,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+980/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU70560339,Paulsgrove,2023-11-14,ND,ND,ND,400,ND,ND,ND
+981/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-11-14,ND,ND,ND,ND,ND,ND,ND
+982/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-11-15,ND,ND,ND,ND,ND,ND,ND
+983/23,Conwy,B044V,Conwy CBC,SH77617954,Conwy West,2023-11-15,ND,ND,ND,3000,ND,ND,ND
+984/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-11-14,ND,ND,ND,ND,ND,ND,ND
+985/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-11-15,ND,ND,ND,ND,ND,ND,ND
+986/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-11-15,ND,ND,ND,ND,ND,ND,ND
+987/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-11-15,ND,ND,ND,ND,ND,ND,ND
+988/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-11-15,ND,ND,ND,200,ND,ND,ND
+989/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-11-15,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+990/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-11-16,ND,ND,ND,ND,ND,ND,ND
+991/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-11-16,ND,ND,ND,160,ND,ND,ND
+992/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-11-16,ND,ND,ND,ND,ND,ND,ND
+993/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-11-16,ND,ND,ND,ND,ND,ND,ND
+994/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-11-16,ND,ND,ND,ND,ND,ND,ND
+995/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-11-20,ND,ND,ND,ND,ND,ND,ND
+996/23,Crouch,B015Y,Maldon DC,TQ90429738,Althorne,2023-11-20,ND,ND,ND,ND,ND,ND,ND
+997/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-11-21,ND,ND,ND,1000,ND,ND,ND
+998/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-11-20,ND,ND,ND,ND,ND,ND,100
+999/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-11-20,ND,ND,ND,400,ND,ND,ND
+1000/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-11-20,ND,ND,ND,ND,ND,ND,ND
+1001/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-11-21,ND,ND,ND,ND,ND,ND,ND
+1002/23,Teign,B27AC,Teignbridge DC,SX93372729,Gas Works East,2023-11-21,ND,ND,ND,ND,ND,ND,ND
+1003/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-11-21,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1004/23,Morecambe Bay - East,B047S,Lancaster CC,SD41116169,Heysham,2023-11-23,ND,ND,ND,ND,ND,ND,ND
+1005/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-11-23,ND,ND,ND,ND,ND,ND,ND
+1006/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-11-27,ND,ND,ND,ND,ND,ND,ND
+1007/23,Milford Haven,B39CZ,Pembrokeshire CC,SM89000275,Tethys Oyster,2023-11-26,ND,ND,ND,ND,ND,ND,ND
+1008/23,Bigbury upon Avon,B030J,South Hams DC,SX67114467,South Hexdown North,2023-11-27,ND,ND,ND,ND,ND,ND,ND
+1009/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-11-28,ND,ND,ND,1400,ND,ND,ND
+1010/23,Walton Backwaters,B011Q,Tendring DC,SI86692556,Twizzle,2023-11-28,ND,ND,ND,ND,ND,ND,ND
+1011/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-11-27,ND,ND,ND,ND,ND,ND,ND
+1012/23,Lune,B066Z,Wyre BC,SD34194862,Knott Spit,2023-11-27,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1014/23,Lantivet Bay,B70AI,Cornwall PHA,SX16305094,Sandheap Point,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1015/23,Mevagissey Bay,B70AK,Cornwall PHA,SX05214698,South Mevagissey Bottom,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1016/23,St Austell Bay,B70AE,Cornwall PHA,SX05744972,Ropehaven Outer,2023-12-04,ND,ND,ND,1080,ND,ND,ND
+1017/23,The Fleet,B25AI,Dorset Council,SY66477627,Fleet Oysters,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1018/23,Brancaster,B05AS,Kings Lynn & W Norfolk BC,TF79304452,Norton Creek Mussels,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1019/23,Portsmouth Harbour,B020H,Portsmouth PHA,SU62850544,Paulsgrove,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1020/23,Porlock Relay,B094E,Somerset Council,SS87184778,Porlock Relay,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1021/23,Swale,B076P,Swale BC,TR01316497,The Causeway,2023-12-04,ND,ND,ND,ND,ND,ND,ND
+1022/23,Poole,B54CI,"Bournemouth, Poole and Christchurch Council",SZ01818871,West Brownsea 1,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1023/23,Burry Inlet,B38AL,City and Council of Swansea,SS51639603,Salthouse Pill,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1024/23,Blakeney,B006R,North Norfolk DC,TF91604549,Wells - The Pool,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1025/23,Langstone Harbour,B019I,Portsmouth PHA,SU70560339,Stoke Common Lake,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1026/23,Start Bay,B087I,South Hams DC,SX84724671,Off Strete,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1027/23,Solent,B24BK,Southampton PHA,SZ57479794,Browndown,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1028/23,Southampton Water,B21AT,Southampton PHA,SU48760530,Hamble Estuary,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1029/23,Brixham,B082B,Torbay BC,SX90965741,Fishcombe SW Corner,2023-12-05,ND,ND,ND,200,ND,ND,ND
+1030/23,Blackwater,B14AD,Maldon DC,TM04060768,St Peters Flats,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1031/23,Swansea,B037U,Swansea PHA,SS67649220,Queens Dock,2023-12-06,ND,ND,ND,ND,ND,ND,40
+1032/23,Fal (Lower),B33BW,Cornwall PHA,SW83663789,East Bank North,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1033/23,Fal (Lower),B33BG,Cornwall PHA,SW82803517,Mylor Pool,2023-12-06,ND,ND,ND,80,ND,ND,ND
+1034/23,Fal (Upper),B033E,Cornwall PHA,SW85134212,Grimes Bar,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1035/23,Fal (Upper),B33BD,Cornwall PHA,SW84093949,Trelissick Pontoon,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1036/23,Percuil,B033R,Cornwall PHA,SW85853369,Percuil,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1037/23,Porthallow Cove,B34AA,Cornwall PHA,SW80212383,Porthallow North,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1038/23,North Kent Coast ,B17CR,London PHA,TR32937761,N. Margate and Pan Sand TECFO 15 ,2023-12-07,ND,ND,ND,ND,ND,ND,ND
+1039/23,Exe,B26BH,Teignbridge DC,SX97248072,Cockwood Harbour,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1040/23,Teign,B27AC,Teignbridge DC,SX93372729,Gas Works East,2023-12-06,ND,ND,ND,ND,ND,ND,ND
+1041/23,Lyme Bay,B090M,Torbay BC,SY13687543,Site 1,2023-12-05,ND,ND,ND,ND,ND,ND,ND
+1042/23,Helford,B034W,Cornwall PHA,SW75512764,Porth Navas Quay,2023-12-07,ND,ND,ND,ND,ND,ND,ND
+1043/23,Morecambe Bay - Barrow,B077Q,Barrow-in-Furness BC,SD23116464,Roa Island,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1044/23,The Wash,B003V,Boston BC,TF44234098,Toft,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1045/23,North Kent Coast,B17BS,Canterbury CC,TR10526680,WOCO Westbeach,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1046/23,Burry Inlet,B038L,City and Council of Swansea,SS45059688,Whitford Point,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1047/23,West Mersea,B013Z,Colchester BC,TL99921299,The Hard,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1049/23,Butley,B009E,East Suffolk DC,TM39434850,Pumping Station Outfall,2023-12-11,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1050/23,Morecambe Bay - East,B047S,Lancaster CC,SD41126170,Heysham,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1051/23,Roach,B73AF,London PHA,TQ94909207,Paglesham,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1052/23,Holy Island-Ross Links,B001M,Northumberland CC,NU12333958,Ross Links,2023-12-11,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1054/23,Colne,B012F,Colchester BC,TM06231590,Pyefleet Spit,2023-12-12,ND,ND,ND,ND,ND,ND,ND
+1055/23,Conwy,B044V,Conwy CBC,SH77617954,Conwy West,2023-12-12,ND,ND,ND,600,ND,ND,ND
+1056/23,The Wash,B04AP,Kings Lynn & W Norfolk BC,TF65953700,Stubborn Sand,2023-12-12,ND,ND,ND,800,ND,ND,ND
+1057/23,Taw/Torridge,B36AB,Torridge DC,SS46573142,Spratt Ridge East,2023-12-11,ND,ND,ND,ND,ND,ND,ND
+1058/23,The Thames,B16BS,London PHA,TQ88148489,West of Southend Pier,2023-12-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1059/23,Blackwater,B014V,Maldon DC,TL91160795,Goldhanger,2023-12-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1060/23,Lune,B066Z,Wyre BC,SD34194862,Knott Spit,2023-12-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1061/23,Lune,B066Z,Wyre BC,SD34194862,Knott Spit,2023-12-13,not tested,not tested,not tested,not tested,not tested,not tested,not tested
+1062/23,Camel,B35AE,Cornwall CC,SW93567540,Porthilly Rock B,2023-12-18,not tested,not tested,not tested,not tested,not tested,not tested,not tested
